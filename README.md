@@ -1,5 +1,11 @@
 # Machine Learning Mutual Fund Selection
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-FF6600)
+![Data](https://img.shields.io/badge/Data-CRSP%2FWRDS-1F6FEB)
+![Status](https://img.shields.io/badge/Status-Research%20Prototype-orange)
+
 Can machine learning help identify mutual fund share classes that are more
 likely to generate positive future alpha?
 
